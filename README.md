@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## **My name is Elena** 
-# I'm currently working on the Full Stack Web Development course with HyperionDev and CoGrammar
+# I'm currently working on the Full Stack Web Development course with HyperionDev and CoGrammar 
 # I'm learning how to use VSCode, Github, NodeJS and Javascript
 # *I'm a big fan of Hello Kitty*
  <picture> (#gh-dark-mode-only)
