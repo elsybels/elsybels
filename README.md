@@ -1,4 +1,3 @@
-"#ffffff"
 ### Hi there 👋
 
 ## ** My name is Elena ** 
